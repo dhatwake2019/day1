@@ -5,11 +5,11 @@ We will be develop guidelines as a group for our workshop.  Several conditions:
 - Use concrete action language.  (Ex. Don't interrupt -> Allow others to finish their thoughts.)   
 
 
-Step 1:  Write down 2-3 
-Step 2: Share
-Step 3:
-
-
+1. Write down 2-3 guidelines.  
+2. In pairs, share your guidelines and select 2 to share with the group. 
+3. Share with the group your guidlines. 
+4. Are there other guidelines that we should add?
 
 
 ## Our Guidelines 
+This will be our list of guidelines. 

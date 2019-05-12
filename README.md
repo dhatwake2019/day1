@@ -1,4 +1,5 @@
 # Day 1
-
+- [Community Expectations]()
+- [Why Text Analysis?](https://github.com/dhatwake2019/day1/blob/master/textanalysis.md)
 - [Defining and Creating (Meta)Data Slides](https://docs.google.com/presentation/d/1SExIy1UKTn6YFNF5WpGhAS-crGmu-0ZIsGqDsOdPsms/edit?usp=sharing)
-- [Text Analysis Slides](https://docs.google.com/presentation/d/1ERw-cTgg1_UU4Z8-nVIyuYniQ4lMpxNryt_EWE0Zjgg/edit?usp=sharing)
+- [Tidying Data]()

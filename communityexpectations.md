@@ -12,4 +12,17 @@ We will be develop guidelines as a group for our workshop.  Several conditions:
 
 
 ## Our Guidelines 
-This will be our list of guidelines. 
+- Start and finish on time. 
+- Pause to check-in during hands on sessions. 
+- Cultivate knowledge of other participants projects. 
+- Encourage focus on tools/methods that have a broad reach. 
+- Generousity toward all types of question.
+- Supportive of each others projects (ex. offering an idea). 
+- Identifying critical components (ex. buttons/icons) that expediate the process.   Explicit about  *all* components.
+- Defining technical terms.  Name the acronym. 
+- Identify additional resources.
+- Create a track for your project during the workshop.
+- Speak up and ask that question!
+- Attention to different learning styles and techniques. 
+- Speak clearly and ennunciate. Attention to the echo in the room. 
+- Drive your own computer. 
